@@ -1,0 +1,56 @@
+name: Daily Tax Policy Monitor
+
+on:
+  schedule:
+    # UTC 00:15 = 北京时间 08:15
+    - cron: "15 0 * * *"
+
+  # 允许我们手动点击 Run workflow
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Check new tax policies
+        run: npm run update
+
+      - name: Save new policies
+        run: |
+          git config user.name "tax-policy-bot"
+          git config user.email "tax-policy-bot@users.noreply.github.com"
+          git add docs/policies.json docs/attachments 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Update tax policies"
+          git push
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy website
+        uses: actions/deploy-pages@v4
