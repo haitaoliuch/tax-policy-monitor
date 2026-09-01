@@ -1,6 +1,32 @@
 {
-  "last_checked": "2026年8月26日 20:35",
+  "last_checked": "2026年9月1日 13:02",
   "policies": [
+    {
+      "id": "dae6c2711021",
+      "title": "财政部 税务总局 中国证监会关于规范转让上市公司限售股个人所得税政策的公告",
+      "publish_date": "2026-08-28",
+      "document_no": "征收个人所得税有关问题的通知》（财税〔2009〕167号",
+      "summary": "【文号】征收个人所得税有关问题的通知》（财税〔2009〕167号\n【发布日期】2026-08-28\n【核心内容】本公告所称限售股包括《财政部 国家税务总局 证监会关于个人转让上市公司限售股所得征收个人所得税有关问题的通知》（财税〔2009〕167号）第二条规定的限售股，以及其在解禁日后孳生且在本公告实施后办理股权登记的送、转股。 限售股发生送、转、缩股的，证券登记结算公司应当依据送、转、缩股比例对限售股成本原值进行调整。 二、上市公司应当按照《财政部 国家税务总局关于证券机构技术和制度准备完成后个人转让上市公司限售股有关个人所得税问题的通知》（财税〔2011〕108号）规定，在向证券登记结算公司申请办理股份初始登记时，申报由个人限售股股东提供的有关限售股成本原值详细资料，以及会计师事务所、税务师事务所等中介机构对该资料出具的鉴证报告。 本公告实施后，上市公司申请办理股份初始登记时未按规定申报限售股成本原值的，个人转让限售股时，证券机构按照限售股转让收入全额，适用20%税率，计算预扣预缴个人所得税。\n【执行时间】五、个人转让全国中小企业股份转让系统挂牌公司（以下称挂牌公司）、北京证券交易所上市公司原始股缴纳个人所得税，依照本公告规定执行。 六、本公告自公布之日起实施，此前规定与本公告规定不一致的，按本公告规定执行。",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252027/content.html",
+      "attachments": [],
+      "discovered_at": "2026-09-01T05:02:31.324Z"
+    },
+    {
+      "id": "6dcd678e0478",
+      "title": "财政部 税务总局关于明确非应税交易等增值税有关事项的公告",
+      "publish_date": "2026-08-27",
+      "document_no": "税人放弃免税权有关问题的通知》（财税〔2007〕127号",
+      "summary": "【文号】税人放弃免税权有关问题的通知》（财税〔2007〕127号\n【发布日期】2026-08-27\n【核心内容】二、纳税人有下列情形的，属于增值税法实施条例第二十二条所称不得抵扣非应税交易，对应的进项税额不得从销项税额中抵扣： （一）销售货物、服务、无形资产、不动产不属于增值税法第四条在境内发生应税交易所列情形的； 三、增值税扣税凭证中的农产品销售发票，是指农业生产者销售自产农产品适用免征增值税政策而开具的普通发票。 四、免征增值税政策中的技工学校、高级技工学校、技师学院，包括经省级及以上人力资源社会保障行政部门批准成立的技工学校、高级技工学校，经省级人民政府批准成立的技师学院，以及其他依据有关规定设立的技工学校、高级技工学校、技师学院。 五、免征增值税政策中的第一道门票收入，是指观众进入首道大门收取的门票收入，不包括在场馆内部特定区域举办特别展览、专场演出、临时活动等收取的门票收入。\n【执行时间】七、《财政部 税务总局关于增值税法施行后增值税优惠政策衔接事项的公告》（财政部 税务总局公告2026年第10号）中取得的不动产和土地使用权，包括以直接购买、接受捐赠、接受投资入股、自建、抵债、资产重组等各种形式取得的不动产、土地使用权。 十一、本公告自2026年9月1日起施行。",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252024/content.html",
+      "attachments": [
+        {
+          "name": "废止文件和条款目录.pdf",
+          "url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252024/5252024/files/%E5%BA%9F%E6%AD%A2%E6%96%87%E4%BB%B6%E5%92%8C%E6%9D%A1%E6%AC%BE%E7%9B%AE%E5%BD%95.pdf",
+          "local_path": "./attachments/6dcd678e0478/废止文件和条款目录.pdf"
+        }
+      ],
+      "discovered_at": "2026-09-01T05:02:32.014Z"
+    },
     {
       "id": "226566b43b95",
       "title": "国家税务总局关于公布失效废止的部分税务规范性文件目录的公告",
@@ -152,6 +178,46 @@
       "url": "https://fgk.chinatax.gov.cn/zcfgk/c102439/c5251969/content.html",
       "attachments": [],
       "discovered_at": "2026-08-26T12:35:49.926Z"
+    },
+    {
+      "id": "f620351d5429",
+      "title": "办税小知识：增值税专用发票如何进行用途确认操作？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan 立即注册账号 网站纠错 增值税 解读 中国政府网 国家税务总局各省级税务局 北京 天津 河北 山西 内蒙古 辽宁 吉林 黑龙江 上海 江苏 浙江 安徽 福建 江西 山东 河南 湖北 湖南 广东 广西 海南 重庆 四川 贵州 云南 西藏 陕西 甘肃 青海 宁夏 新疆 大连 宁波 厦门 青岛 深圳 直属单位 国家税务总局税务干部学院 中国税务杂志社 中国税务报社 中国税务出版社 税务相关 中国税务学会 中国国际税收研究会 中国注册税务",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102439/c5252056/content.html",
+      "attachments": [],
+      "discovered_at": "2026-09-01T05:02:32.733Z"
+    },
+    {
+      "id": "18c4f36f5068",
+      "title": "税法小课堂：为啥要征收资源税？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102436/c5252054/content.html",
+      "attachments": [],
+      "discovered_at": "2026-09-01T05:02:33.056Z"
+    },
+    {
+      "id": "ce7d6edfc836",
+      "title": "@中国税务有回应：先开票后回款，可以等回款后再申报增值税吗？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c103097/c5252017/content.html",
+      "attachments": [],
+      "discovered_at": "2026-09-01T05:02:33.310Z"
+    },
+    {
+      "id": "d30b03426f22",
+      "title": "图解｜离境退税“指尖办”，解锁China travel新体验！",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan 立即注册账号 网站纠错 解读 中国政府网 国家税务总局各省级税务局 北京 天津 河北 山西 内蒙古 辽宁 吉林 黑龙江 上海 江苏 浙江 安徽 福建 江西 山东 河南 湖北 湖南 广东 广西 海南 重庆 四川 贵州 云南 西藏 陕西 甘肃 青海 宁夏 新疆 大连 宁波 厦门 青岛 深圳 直属单位 国家税务总局税务干部学院 中国税务杂志社 中国税务报社 中国税务出版社 税务相关 中国税务学会 中国国际税收研究会 中国注册税务师协会 ",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100016/c5252015/content.html",
+      "attachments": [],
+      "discovered_at": "2026-09-01T05:02:33.576Z"
     }
   ]
 }
