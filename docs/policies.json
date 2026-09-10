@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026年9月9日 12:36",
+  "last_checked": "2026年9月10日 12:36",
   "policies": [
     {
       "id": "a6623ec207c3",
@@ -395,6 +395,16 @@
       "url": "https://fgk.chinatax.gov.cn/zcfgk/c102439/c5252225/content.html",
       "attachments": [],
       "discovered_at": "2026-09-09T04:36:35.848Z"
+    },
+    {
+      "id": "2f99ea1b1c47",
+      "title": "图解｜《扣缴办法》发布，自然人缴纳增值税更便捷了！",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100016/c5252249/content.html",
+      "attachments": [],
+      "discovered_at": "2026-09-10T04:36:38.446Z"
     }
   ]
 }
