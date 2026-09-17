@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026年9月16日 12:44",
+  "last_checked": "2026年9月17日 12:48",
   "policies": [
     {
       "id": "a6623ec207c3",
@@ -495,6 +495,26 @@
       "url": "https://fgk.chinatax.gov.cn/zcfgk/c100016/c5252450/content.html",
       "attachments": [],
       "discovered_at": "2026-09-16T04:44:59.570Z"
+    },
+    {
+      "id": "872a97e25cd9",
+      "title": "@中国税务有回应：因法定代表人名下企业被关联判为D级纳税人，何时可以重新评级？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】@中国税务有回应：因法定代表人名下企业被关联判为D级纳税人，何时可以重新评级？",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c103097/c5252482/content.html",
+      "attachments": [],
+      "discovered_at": "2026-09-17T04:48:06.331Z"
+    },
+    {
+      "id": "1c19b983981d",
+      "title": "办税小知识：企业如何在电子税务局下载往期申报表？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102439/c5252480/content.html",
+      "attachments": [],
+      "discovered_at": "2026-09-17T04:48:06.598Z"
     }
   ]
 }
