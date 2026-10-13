@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026年10月10日 13:45",
+  "last_checked": "2026年10月13日 14:44",
   "policies": [
     {
       "id": "a6623ec207c3",
@@ -20,6 +20,37 @@
       "url": "https://fgk.chinatax.gov.cn/zcfgk/c100015/c5252757/content.html",
       "attachments": [],
       "discovered_at": "2026-10-02T05:30:45.342Z"
+    },
+    {
+      "id": "9032d7d31168",
+      "title": "财政部 税务总局关于调整部分产品出口退税政策的公告",
+      "publish_date": "2026-10-12",
+      "document_no": "",
+      "summary": "【发布日期】2026-10-12\n【核心内容】二、自2027年4月1日起，取消电子烟设备装置等产品增值税出口退税。 三、对上述产品中征收消费税的产品，出口消费税政策不作调整，继续适用消费税退（免）税政策。 四、本公告所列产品适用的出口退税率以出口货物报关单注明的出口日期界定。\n【执行时间】二、自2027年4月1日起，取消电子烟设备装置等产品增值税出口退税。",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252906/content.html",
+      "attachments": [
+        {
+          "name": "新能源汽车产品清单.pdf",
+          "url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252906/5252906/files/%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%BA%A7%E5%93%81%E6%B8%85%E5%8D%95.pdf",
+          "local_path": "./attachments/9032d7d31168/新能源汽车产品清单.pdf"
+        },
+        {
+          "name": "电子烟设备装置等产品清单.pdf",
+          "url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252906/5252906/files/%E7%94%B5%E5%AD%90%E7%83%9F%E8%AE%BE%E5%A4%87%E8%A3%85%E7%BD%AE%E7%AD%89%E4%BA%A7%E5%93%81%E6%B8%85%E5%8D%95.pdf",
+          "local_path": "./attachments/9032d7d31168/电子烟设备装置等产品清单.pdf"
+        }
+      ],
+      "discovered_at": "2026-10-13T06:44:05.867Z"
+    },
+    {
+      "id": "277461e39829",
+      "title": "国家税务总局关于发布出口退税率文库2026C版的通知",
+      "publish_date": "2026-09-30",
+      "document_no": "税总货劳函〔2026〕214号",
+      "summary": "【文号】税总货劳函〔2026〕214号\n【发布日期】2026-09-30\n【核心内容】二、各地要严格执行出口退税率，严禁擅自改变出口退税率，一经发现，严肃追究相关人员责任。\n【执行时间】二、各地要严格执行出口退税率，严禁擅自改变出口退税率，一经发现，严肃追究相关人员责任。 三、执行中发现的问题，请及时报告国家税务总局（货物和劳务税司）。",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102424/c5252849/content.html",
+      "attachments": [],
+      "discovered_at": "2026-10-13T06:44:06.128Z"
     },
     {
       "id": "b0f225a37213",
@@ -727,6 +758,36 @@
       "url": "https://fgk.chinatax.gov.cn/zcfgk/c102439/c5252811/content.html",
       "attachments": [],
       "discovered_at": "2026-10-10T05:45:58.519Z"
+    },
+    {
+      "id": "c5fe90ff1f3d",
+      "title": "税法小课堂：水资源税适用税额如何确定？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102436/c5252898/content.html",
+      "attachments": [],
+      "discovered_at": "2026-10-13T06:44:06.423Z"
+    },
+    {
+      "id": "32d737801bfc",
+      "title": "@中国税务有回应：转让已抵免所得税的安全生产专用设备，是否需要补缴税款？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan 立即注册账号 网站纠错 解读 中国政府网 国家税务总局各省级税务局 北京 天津 河北 山西 内蒙古 辽宁 吉林 黑龙江 上海 江苏 浙江 安徽 福建 江西 山东 河南 湖北 湖南 广东 广西 海南 重庆 四川 贵州 云南 西藏 陕西 甘肃 青海 宁夏 新疆 大连 宁波 厦门 青岛 深圳 直属单位 国家税务总局税务干部学院 中国税务杂志社 中国税务报社 中国税务出版社 税务相关 中国税务学会 中国国际税收研究会 中国注册税务师协会 ",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c103097/c5252858/content.html",
+      "attachments": [],
+      "discovered_at": "2026-10-13T06:44:06.700Z"
+    },
+    {
+      "id": "0b8cb1bebf51",
+      "title": "图解丨一表通办、一单明确，出口退（免）税备案更方便了",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】立即注册账号 网站纠错 解读 中国政府网 国家税务总局各省级税务局 北京 天津 河北 山西 内蒙古 辽宁 吉林 黑龙江 上海 江苏 浙江 安徽 福建 江西 山东 河南 湖北 湖南 广东 广西 海南 重庆 四川 贵州 云南 西藏 陕西 甘肃 青海 宁夏 新疆 大连 宁波 厦门 青岛 深圳 直属单位 国家税务总局税务干部学院 中国税务杂志社 中国税务报社 中国税务出版社 税务相关 中国税务学会 中国国际税收研究会 中国注册税务师协会 ",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100016/c5252856/content.html",
+      "attachments": [],
+      "discovered_at": "2026-10-13T06:44:06.981Z"
     }
   ]
 }
