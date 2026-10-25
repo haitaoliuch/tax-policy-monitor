@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026年10月23日 12:42",
+  "last_checked": "2026年10月25日 12:35",
   "policies": [
     {
       "id": "a6623ec207c3",
@@ -984,6 +984,26 @@
       "url": "https://fgk.chinatax.gov.cn/zcfgk/c103096/c5253074/content.html",
       "attachments": [],
       "discovered_at": "2026-10-23T04:42:38.160Z"
+    },
+    {
+      "id": "9a53619edc73",
+      "title": "@中国税务有回应：个体工商户无法划分经营支出和家庭生活支出的如何税前扣除？能合计填写吗？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】@中国税务有回应：个体工商户无法划分经营支出和家庭生活支出的如何税前扣除？",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c103097/c5253115/content.html",
+      "attachments": [],
+      "discovered_at": "2026-10-25T04:35:01.488Z"
+    },
+    {
+      "id": "0f4ee9932098",
+      "title": "税费政策我来讲：单位代扣代缴自然人增值税如何开具发票？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan 立即注册账号 网站纠错 增值税,自然人 解读 中国政府网 国家税务总局各省级税务局 北京 天津 河北 山西 内蒙古 辽宁 吉林 黑龙江 上海 江苏 浙江 安徽 福建 江西 山东 河南 湖北 湖南 广东 广西 海南 重庆 四川 贵州 云南 西藏 陕西 甘肃 青海 宁夏 新疆 大连 宁波 厦门 青岛 深圳 直属单位 国家税务总局税务干部学院 中国税务杂志社 中国税务报社 中国税务出版社 税务相关 中国税务学会 中国国际税收研究会 中国",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c103096/c5253113/content.html",
+      "attachments": [],
+      "discovered_at": "2026-10-25T04:35:01.810Z"
     }
   ]
 }
