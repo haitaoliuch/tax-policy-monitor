@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026年11月2日 13:55",
+  "last_checked": "2026年11月5日 14:37",
   "policies": [
     {
       "id": "a6623ec207c3",
@@ -20,6 +20,16 @@
       "url": "https://fgk.chinatax.gov.cn/zcfgk/c100015/c5252757/content.html",
       "attachments": [],
       "discovered_at": "2026-10-02T05:30:45.342Z"
+    },
+    {
+      "id": "70f8754501c8",
+      "title": "工业和信息化部办公厅 国家网信办秘书局 税务总局办公厅 国家知识产权局办公室关于进一步防范不良中介机构影...",
+      "publish_date": "2026-10-13",
+      "document_no": "工信厅联企业〔2026〕40号",
+      "summary": "【文号】工信厅联企业〔2026〕40号\n【发布日期】2026-10-13\n【核心内容】在专精特新中小企业认定和专精特新“小巨人”企业初核推荐中，省级中小企业主管部门应健全审核机制、规范全过程管理，要按照“双随机”（随机抽取专家组成多个评审专家组、即时随机派发审核任务）方式，组织专家严格对照认定标准开展审核，不得将审核认定相关工作委托从事专精特新中小企业或专精特新“小巨人”企业申报相关中介服务的机构（以下简称涉申报中介机构）承担。 中小企业主管部门要加强《优质中小企业梯度培育管理办法》的宣传解读，与申报企业建立顺畅的沟通渠道，让企业充分了解申报政策、审核流程，及时发布和回应热点问题，减少信息差，组织为中小企业提供公益性的申报辅导服务，实现申报企业全覆盖，引导企业自主申报。 中小企业主管部门、网信部门、知识产权部门要联合整治涉申报中介机构通过各类自媒体、公众号、互联网平台等发布不实信息、歪曲解读有关申报认定政策、发布涉申报服务虚假宣传及广告信息、以申报结果作出保证性承诺为噱头招揽业务等行为，保障申报认定工作公平有序开展。 网信部门根据中小企业主管部门有关线索及研判意见，依法对网站平台中涉申报中介机构发布的违法违规等信息进行清理，对严重违反法律的网站平台和账号依法依规予以处理。",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100013/c5253125/content.html",
+      "attachments": [],
+      "discovered_at": "2026-11-05T06:37:56.247Z"
     },
     {
       "id": "9032d7d31168",
@@ -1114,6 +1124,46 @@
       "url": "https://fgk.chinatax.gov.cn/zcfgk/c100016/c5253176/content.html",
       "attachments": [],
       "discovered_at": "2026-11-02T05:55:51.274Z"
+    },
+    {
+      "id": "c12a33b2c71f",
+      "title": "税法小课堂：资源税计税依据如何确定？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan 立即注册账号 网站纠错 资源税 解读 中国政府网 国家税务总局各省级税务局 北京 天津 河北 山西 内蒙古 辽宁 吉林 黑龙江 上海 江苏 浙江 安徽 福建 江西 山东 河南 湖北 湖南 广东 广西 海南 重庆 四川 贵州 云南 西藏 陕西 甘肃 青海 宁夏 新疆 大连 宁波 厦门 青岛 深圳 直属单位 国家税务总局税务干部学院 中国税务杂志社 中国税务报社 中国税务出版社 税务相关 中国税务学会 中国国际税收研究会 中国注册税务",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102436/c5253312/content.html",
+      "attachments": [],
+      "discovered_at": "2026-11-05T06:37:56.533Z"
+    },
+    {
+      "id": "c3dae8507721",
+      "title": "税法便利贴：职工福利费、工会经费、职工教育经费在企业所得税税前该怎么扣除？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100016/c5253310/content.html",
+      "attachments": [],
+      "discovered_at": "2026-11-05T06:37:56.812Z"
+    },
+    {
+      "id": "89a1b3e017a9",
+      "title": "办税指“楠”：新办纳税人开业，如何办理税务信息确认？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102439/c5253293/content.html",
+      "attachments": [],
+      "discovered_at": "2026-11-05T06:37:57.076Z"
+    },
+    {
+      "id": "c128368ccb44",
+      "title": "简笔画税法｜境内单位代扣代缴自然人增值税要注意这4点！",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan 立即注册账号 网站纠错 增值税,自然人 解读 中国政府网 国家税务总局各省级税务局 北京 天津 河北 山西 内蒙古 辽宁 吉林 黑龙江 上海 江苏 浙江 安徽 福建 江西 山东 河南 湖北 湖南 广东 广西 海南 重庆 四川 贵州 云南 西藏 陕西 甘肃 青海 宁夏 新疆 大连 宁波 厦门 青岛 深圳 直属单位 国家税务总局税务干部学院 中国税务杂志社 中国税务报社 中国税务出版社 税务相关 中国税务学会 中国国际税收研究会 中国",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c102439/c5253291/content.html",
+      "attachments": [],
+      "discovered_at": "2026-11-05T06:37:57.360Z"
     }
   ]
 }
