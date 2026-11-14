@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026年11月13日 14:34",
+  "last_checked": "2026年11月14日 14:12",
   "policies": [
     {
       "id": "2fa6279dc541",
@@ -36,6 +36,16 @@
       "url": "https://fgk.chinatax.gov.cn/zcfgk/c100015/c5252757/content.html",
       "attachments": [],
       "discovered_at": "2026-10-02T05:30:45.342Z"
+    },
+    {
+      "id": "fc3f4cb77472",
+      "title": "@所有车主：2026年11月1日起，加油站可以“交易即开票”",
+      "publish_date": "2026-11-01",
+      "document_no": "",
+      "summary": "【发布日期】2026-11-01\n【核心内容】立即注册账号 网站纠错 解读 中国政府网 国家税务总局各省级税务局 北京 天津 河北 山西 内蒙古 辽宁 吉林 黑龙江 上海 江苏 浙江 安徽 福建 江西 山东 河南 湖北 湖南 广东 广西 海南 重庆 四川 贵州 云南 西藏 陕西 甘肃 青海 宁夏 新疆 大连 宁波 厦门 青岛 深圳 直属单位 国家税务总局税务干部学院 中国税务杂志社 中国税务报社 中国税务出版社 税务相关 中国税务学会 中国国际税收研究会 中国注册税务师协会 ",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100016/c5253532/content.html",
+      "attachments": [],
+      "discovered_at": "2026-11-14T06:12:15.411Z"
     },
     {
       "id": "70f8754501c8",
@@ -1300,6 +1310,26 @@
       "url": "https://fgk.chinatax.gov.cn/zcfgk/c102436/c5253436/content.html",
       "attachments": [],
       "discovered_at": "2026-11-13T06:34:18.844Z"
+    },
+    {
+      "id": "24df942d0f28",
+      "title": "@中国税务有回应：企业单独提供技术咨询，取得的收入可以享受免征增值税优惠吗？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】@中国税务有回应：企业单独提供技术咨询，取得的收入可以享受免征增值税优惠吗？",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c103097/c5253536/content.html",
+      "attachments": [],
+      "discovered_at": "2026-11-14T06:12:14.854Z"
+    },
+    {
+      "id": "5fe57e4fe56f",
+      "title": "小微税费政策一点通：小型微利企业应纳税所得额怎么算？",
+      "publish_date": "",
+      "document_no": "",
+      "summary": "【核心内容】国家税务总局政策法规库 .arctips .article .arc_cont p img{ width: 700px; } #fontzoom video,#fontzoom div video{ height:500px!important; } @media screen and (max-width:768px){ #fontzoom video,#fontzoom div video{ height:100%!importan 立即注册账号 网站纠错 小型微利企业,应纳税所得额 解读 中国政府网 国家税务总局各省级税务局 北京 天津 河北 山西 内蒙古 辽宁 吉林 黑龙江 上海 江苏 浙江 安徽 福建 江西 山东 河南 湖北 湖南 广东 广西 海南 重庆 四川 贵州 云南 西藏 陕西 甘肃 青海 宁夏 新疆 大连 宁波 厦门 青岛 深圳 直属单位 国家税务总局税务干部学院 中国税务杂志社 中国税务报社 中国税务出版社 税务相关 中国税务学会 中国国际税收",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100016/c5253534/content.html",
+      "attachments": [],
+      "discovered_at": "2026-11-14T06:12:15.140Z"
     }
   ]
 }
